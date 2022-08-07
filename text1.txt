@@ -6,4 +6,5 @@ I have completed my Masters from NSTU.
 I have started my full stack web development job.
 I will join Mfile 1st of December.
 Logo alignment is centered.
-This text is added from main branch.
+New line is added in feature branch.
+
