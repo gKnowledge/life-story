@@ -5,3 +5,4 @@ I have completed my Hon's from NSTU in 2024.
 I have completed my Masters from NSTU.
 I have started my full stack web development job.
 I will join Mfile 1st of December.
+Logo alignment is centered.
